@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "question": "What is the capital of France?",
+    "options": [
+      "London",
+      "Berlin",
+      "Paris",
+      "Madrid"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 2,
+    "question": "Which programming language is known as the 'mother of all languages'?",
+    "options": [
+      "C",
+      "Assembly",
+      "Java",
+      "Python"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 3,
+    "question": "What is the main component of the sun?",
+    "options": [
+      "Liquid lava",
+      "Gas",
+      "Molten iron",
+      "Rock"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 4,
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "options": [
+      "Charles Dickens",
+      "William Shakespeare",
+      "Mark Twain",
+      "Jane Austen"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 5,
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hyper Text Markup Language",
+      "High Tech Multi Language",
+      "Hyperlinks and Text Markup Language",
+      "Home Tool Markup Language"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Venus",
+      "Jupiter",
+      "Mars",
+      "Saturn"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 7,
+    "question": "What is the largest ocean on Earth?",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Pacific Ocean"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 8,
+    "question": "In computing, what does CPU stand for?",
+    "options": [
+      "Central Processing Unit",
+      "Computer Personal Unit",
+      "Central Program Utility",
+      "Core Processing Unit"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 9,
+    "question": "Which element has the chemical symbol 'O'?",
+    "options": [
+      "Gold",
+      "Oxygen",
+      "Osmium",
+      "Oganesson"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 10,
+    "question": "What is the fastest land animal?",
+    "options": [
+      "Lion",
+      "Leopard",
+      "Cheetah",
+      "Horse"
+    ],
+    "correctAnswer": 2
+  }
+]
